@@ -1,6 +1,6 @@
 # WhatsApp-Multi-Messager-w-CSV
 
-The file processes a CSV file with 2 columns with 'Name' and 'Number' headers respectively. Using whatsapp web, the project sends a pre-defined message to all the users in CSV file.
+The file processes a CSV file with 2 columns with 'Name' and 'Number' headers respectively. Using WhatsApp web, the project sends a pre-defined message to all the users in CSV file.
 
 In order to customize message, please see message variable in the .py file.
 
